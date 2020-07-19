@@ -1,4 +1,5 @@
-#rm(list=ls())
+
+rm(list=ls())
 
 library(goftest)
 library(dplyr)
